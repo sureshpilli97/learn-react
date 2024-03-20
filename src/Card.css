@@ -1,0 +1,25 @@
+#AppCard{
+    margin: 10px;
+}
+#form-user{
+    padding: 20px;
+    padding-bottom: 50px;
+}
+#add-user{
+    display: flex;
+    flex-direction: row;
+    float: right;
+}
+#error-class{
+    border: solid 1px;
+    border-color: red;
+}
+#ok-class{
+    border: solid 1px;
+    border-color: green;
+}
+#form-data{
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
